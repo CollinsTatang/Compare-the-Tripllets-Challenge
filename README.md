@@ -21,10 +21,9 @@ Given a and b, determine their respective comparison points
     Complete the function compareTriplets in the editor below.
 
     compareTriplets has the following parameter(s):
-    <lu>
-        <li>int a[3]: Alice's challenge rating</li>
-        <li>int b[3]: Bob's challenge rating</li>
-    </lu>
+
+        int a[3]: Alice's challenge rating
+        int b[3]: Bob's challenge rating
 
 # Return
 
@@ -32,10 +31,8 @@ Given a and b, determine their respective comparison points
 
 # Constraints
 
-    <lu>
-        <li>1 ≤ a[i] ≤ 100</li>
-        <li>1 ≤ b[i] ≤ 100</li>
-    </lu>
+    1 ≤ a[i] ≤ 100
+    1 ≤ b[i] ≤ 100
 
 # Sample Input 0
 
